@@ -1,6 +1,6 @@
 # personal_finance_app
 
-A new Flutter project.
+A finance management application.
 
 ## Getting Started
 
